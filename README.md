@@ -1,7 +1,7 @@
 <!-- Add banner here -->
 
 
-# Food Ordering App
+# Test
 
 <!-- Add buttons here -->
 ![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/codefromrvk/Story2?include_prereleases)
@@ -22,7 +22,7 @@
 
 # Table of contents
 
-- [Food Ordering App](#food-ordering-app)
+- [Test](#test)
 - [Demo-Preview](#demo-preview)
 - [Table of contents](#table-of-contents)
 - [Installation](#installation)
