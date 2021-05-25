@@ -1,5 +1,5 @@
 <!-- Add banner here -->
-![Banner](https://github.com/navendu-pottekkat/awesome-readme/blob/master/banner.png)
+![Banner](https://github.com/codefromrvk/Story2/blob/master/banner.png)
 
 # Test
 
